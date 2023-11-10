@@ -1,0 +1,215 @@
+repo_name: fisforfaheem/flutter_ringtone_player
+report_id: 15d9abbb3da529d92bd07c53462e5f91
+repo_type: Public
+timestamp: '2023-11-10T06:55:53+00:00'
+requested_by: SPodjasek
+provider: github
+branch: main
+detected_tools_count: 18
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: Repo Metadata
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source: ios/flutter_ringtone_player.podspec
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2019-04-26 19:15:46.000000000 Z
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '31.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: example/android/app/build.gradle
+  detection_source: example/android/app/build.gradle
+  last_updated_by: andzejsw
+  last_updated_on: 2021-03-25 10:22:34.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source: pubspec.yaml
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2019-04-26 19:15:46.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/stale.yml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-11-08 23:31:04.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source: android/build.gradle
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2019-04-26 19:15:46.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '12.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: example/android/app/build.gradle
+  detection_source: example/android/app/build.gradle
+  last_updated_by: andzejsw
+  last_updated_on: 2021-03-25 10:22:34.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source: ios/flutter_ringtone_player.podspec
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2019-04-26 19:15:46.000000000 Z
+- name: test
+  website_url: test
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
+  detection_source: pubspec.yaml
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2021-10-25 09:07:26.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 0.1.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.yaml
+  detection_source: example/pubspec.yaml
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2019-04-26 19:15:46.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2019-04-26 19:15:46.000000000 Z
+- name: flutter_ringtone_player
+  description: A simple player for system default ringtones
+  package_url: https://pub.dartlang.org/flutter_ringtone_player
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source: example/pubspec.yaml
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2019-04-26 19:15:46.000000000 Z
+- name: path_provider
+  description: Flutter plugin for getting commonly used locations on host platform
+    file systems
+  package_url: https://pub.dartlang.org/path_provider
+  version: 2.0.11
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2022-04-07 11:52:51.000000000 Z
+- name: test
+  description: A full featured library for writing and running Dart tests across platforms
+  package_url: https://pub.dartlang.org/test
+  version: 1.21.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Sebastian Podjasek
+  last_updated_on: 2021-10-25 09:07:26.000000000 Z
